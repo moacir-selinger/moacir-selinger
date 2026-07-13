@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá, sou o Moacir 👋
 
-<!--
-**moacir-selinger/moacir-selinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador da HASSED.com — Internet Solutions.
 
-Here are some ideas to get you started:
+- 🔭 Trabalhando na MaisMei
+- 🌱 Estudando Claude Code IA
+- 📫 Contato: suporte@hassed.com
+- 🌐 Site: [www.hassed.com](https://www.hassed.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=moacir-selinger&show_icons=true&theme=dark&hide_border=true" />
+
+**Linguagens mais usadas**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moacir-selinger&layout=compact&theme=dark&hide_border=true)
+
+<br clear="both">
+
+### Stack
+
+![JavaScript](https://skillicons.dev/icons?i=js) ![Node](https://skillicons.dev/icons?i=nodejs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+
+<br>
+
+![snake](https://github.com/moacir-selinger/moacir-selinger/blob/output/github-contribution-grid-snake.svg)
