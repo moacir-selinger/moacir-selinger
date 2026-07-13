@@ -2,25 +2,36 @@
 
 Fundador da HASSED.com — Internet Solutions.
 
-- 🔭 Trabalhando na MaisMei
-- 🌱 Estudando Claude Code IA
-- 📫 Contato: suporte@hassed.com
-- 🌐 Site: [www.hassed.com](https://www.hassed.com)
+- 🛠️ Trabalhando na [MaisMei](https://maismei.com.br)
+- 🚀 Estudando Claude Code IA
+- 📬 Contato: [suporte@hassed.com](mailto:suporte@hassed.com)
+- 🌐 Site: [www.hassed.com](http://www.hassed.com)
 
 <br>
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=moacir-selinger&show_icons=true&theme=dark&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
+
+**GitHub Stats**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=moacir-selinger&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+</td>
+<td width="50%">
 
 **Linguagens mais usadas**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moacir-selinger&layout=compact&theme=dark&hide_border=true)
 
-<br clear="both">
+</td>
+</tr>
+</table>
 
 ### Stack
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![Node](https://skillicons.dev/icons?i=nodejs) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js) ![Node](https://skillicons.dev/icons?i=nodejs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 <br>
 
-![snake](https://github.com/moacir-selinger/moacir-selinger/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/moacir-selinger/moacir-selinger/output/github-contribution-grid-snake-dark.svg)
